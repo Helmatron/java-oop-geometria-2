@@ -13,3 +13,12 @@ Aggiungere due metodi: calcolaArea e calcolaPerimetro che calcolano e restituisc
 Dopo averlo istanziato, stampate a video il perimetro e l’area.
 
 BONUS Aggiungere alla classe Rettangolo un metodo disegna che disegna in console il rettangolo con le sue dimensioni, come nell’immagine allegata
+
+
+base e altezza con incapsulo, perchè?
+- non voglio che base e altezza siano facilmente accessibili, quindi quei valori sono?
+ 0, 0 ? dal momento che prevedo di farli cambiare dall'utente? 
+numero, numero? in modo che il rettangolo sia definito con dei numeri base?
+
+Aggiungere un opportuno costruttore con parametri.
+quindi?
